@@ -1,0 +1,126 @@
+19:14:30,601  INFO Robot:21 - init coordinate:1,2
+19:14:30,605  INFO Robot:22 - init facing:N
+19:14:30,640  INFO Robot:35 - new facing:W
+19:14:30,642  INFO Robot:51 - new coordinate:0,2
+19:14:30,645  INFO Robot:35 - new facing:S
+19:14:30,645  INFO Robot:51 - new coordinate:0,1
+19:14:30,645  INFO Robot:35 - new facing:E
+19:14:30,645  INFO Robot:51 - new coordinate:1,1
+19:14:30,646  INFO Robot:35 - new facing:N
+19:14:30,646  INFO Robot:51 - new coordinate:1,2
+19:14:30,646  INFO Robot:51 - new coordinate:1,3
+19:14:30,646  INFO Robot:28 - final status: 1 3 N
+19:14:30,647  INFO Robot:28 - final status: 1 3 N
+19:14:30,647  INFO Robot:21 - init coordinate:3,3
+19:14:30,647  INFO Robot:22 - init facing:E
+19:14:30,649  INFO Robot:51 - new coordinate:4,3
+19:14:30,651  INFO Robot:51 - new coordinate:5,3
+19:14:30,651  INFO Robot:42 - new facing:S
+19:14:30,651  INFO Robot:51 - new coordinate:5,2
+19:14:30,651  INFO Robot:51 - new coordinate:5,1
+19:14:30,652  INFO Robot:42 - new facing:W
+19:14:30,652  INFO Robot:51 - new coordinate:4,1
+19:14:30,652  INFO Robot:42 - new facing:N
+19:14:30,652  INFO Robot:42 - new facing:E
+19:14:30,653  INFO Robot:51 - new coordinate:5,1
+19:14:30,653  INFO Robot:28 - final status: 5 1 E
+19:14:30,653  INFO Robot:28 - final status: 5 1 E
+19:14:30,653  INFO Robot:21 - init coordinate:0,0
+19:14:30,653  INFO Robot:22 - init facing:N
+19:14:30,654  INFO Robot:42 - new facing:E
+19:14:30,654  INFO Robot:51 - new coordinate:1,0
+19:14:30,654  INFO Robot:51 - new coordinate:2,0
+19:14:30,654  INFO MoveRobotCommand:32 - coordinate:3,0 not available
+19:14:30,654  INFO MoveRobotCommand:32 - coordinate:3,0 not available
+19:14:30,654  INFO MoveRobotCommand:32 - coordinate:3,0 not available
+19:14:30,654  INFO Robot:35 - new facing:N
+19:14:30,655  INFO Robot:51 - new coordinate:2,1
+19:14:30,655  INFO Robot:51 - new coordinate:2,2
+19:14:30,655  INFO Robot:51 - new coordinate:2,3
+19:14:30,655  INFO MoveRobotCommand:32 - coordinate:2,4 not available
+19:14:30,656  INFO MoveRobotCommand:32 - coordinate:2,4 not available
+19:14:30,656  INFO MoveRobotCommand:32 - coordinate:2,4 not available
+19:14:30,656  INFO Robot:28 - final status: 2 3 N
+19:14:30,656  INFO Robot:28 - final status: 2 3 N
+19:14:30,656  INFO Robot:21 - init coordinate:0,0
+19:14:30,656  INFO Robot:22 - init facing:N
+19:14:30,657  INFO Robot:42 - new facing:E
+19:14:30,657  INFO Robot:51 - new coordinate:1,0
+19:14:30,657  INFO Robot:51 - new coordinate:2,0
+19:14:30,657  INFO MoveRobotCommand:32 - coordinate:3,0 not available
+19:14:30,657  INFO MoveRobotCommand:32 - coordinate:3,0 not available
+19:14:30,657  INFO MoveRobotCommand:32 - coordinate:3,0 not available
+19:14:30,657  INFO Robot:35 - new facing:N
+19:14:30,658  INFO Robot:51 - new coordinate:2,1
+19:14:30,658  INFO Robot:51 - new coordinate:2,2
+19:14:30,658  INFO MoveRobotCommand:32 - coordinate:2,3 not available
+19:14:30,658  INFO MoveRobotCommand:32 - coordinate:2,3 not available
+19:14:30,659  INFO MoveRobotCommand:32 - coordinate:2,3 not available
+19:14:30,659  INFO MoveRobotCommand:32 - coordinate:2,3 not available
+19:14:30,659  INFO Robot:28 - final status: 2 2 N
+19:14:30,659  INFO Robot:28 - final status: 2 2 N
+19:14:30,659  INFO Robot:21 - init coordinate:0,0
+19:14:30,659  INFO Robot:22 - init facing:N
+19:14:30,660  INFO Robot:35 - new facing:W
+19:14:30,661  INFO MoveRobotCommand:32 - coordinate:-1,0 not available
+19:14:30,661  INFO MoveRobotCommand:32 - coordinate:-1,0 not available
+19:14:30,661  INFO Robot:42 - new facing:N
+19:14:30,661  INFO Robot:51 - new coordinate:0,1
+19:14:30,661  INFO Robot:51 - new coordinate:0,2
+19:14:30,661  INFO Robot:51 - new coordinate:0,3
+19:14:30,662  INFO MoveRobotCommand:32 - coordinate:0,4 not available
+19:14:30,662  INFO MoveRobotCommand:32 - coordinate:0,4 not available
+19:14:30,662  INFO Robot:35 - new facing:W
+19:14:30,662  INFO MoveRobotCommand:32 - coordinate:-1,3 not available
+19:14:30,662  INFO MoveRobotCommand:32 - coordinate:-1,3 not available
+19:14:30,662  INFO MoveRobotCommand:32 - coordinate:-1,3 not available
+19:14:30,662  INFO Robot:42 - new facing:N
+19:14:30,662  INFO MoveRobotCommand:32 - coordinate:0,4 not available
+19:14:30,662  INFO MoveRobotCommand:32 - coordinate:0,4 not available
+19:14:30,663  INFO MoveRobotCommand:32 - coordinate:0,4 not available
+19:14:30,663  INFO MoveRobotCommand:32 - coordinate:0,4 not available
+19:14:30,663  INFO Robot:28 - final status: 0 3 N
+19:14:30,663  INFO Robot:28 - final status: 0 3 N
+19:14:30,663  INFO RobotRunner:23 - init robot failed, coordinate:5,5 not available
+19:14:30,663  INFO RobotRunner:23 - init robot failed, coordinate:2,3 not available
+19:14:30,663  INFO Robot:21 - init coordinate:0,0
+19:14:30,664  INFO Robot:22 - init facing:N
+19:14:30,664  INFO Robot:51 - new coordinate:0,1
+19:14:30,664  INFO MoveRobotCommand:32 - coordinate:0,2 not available
+19:14:30,664  INFO Robot:42 - new facing:E
+19:14:30,664  INFO Robot:51 - new coordinate:1,1
+19:14:30,664  INFO MoveRobotCommand:32 - coordinate:2,1 not available
+19:14:30,664  INFO Robot:28 - final status: 1 1 E
+19:14:30,664  INFO Robot:28 - final status: 1 1 E
+19:14:30,664  INFO Robot:21 - init coordinate:0,0
+19:14:30,665  INFO Robot:22 - init facing:N
+19:14:30,665  INFO Robot:51 - new coordinate:0,1
+19:14:30,669  INFO MoveRobotCommand:32 - coordinate:0,2 not available
+19:14:30,669  INFO Robot:42 - new facing:E
+19:14:30,669  INFO MoveRobotCommand:32 - coordinate:1,1 not available
+19:14:30,669  INFO MoveRobotCommand:32 - coordinate:1,1 not available
+19:14:30,669  INFO Robot:28 - final status: 0 1 E
+19:14:30,670  INFO Robot:28 - final status: 0 1 E
+19:14:30,670  INFO Robot:21 - init coordinate:0,0
+19:14:30,670  INFO Robot:22 - init facing:N
+19:14:30,670  INFO Robot:42 - new facing:E
+19:14:30,670  INFO Robot:51 - new coordinate:1,0
+19:14:30,670  INFO MoveRobotCommand:32 - coordinate:2,0 not available
+19:14:30,670  INFO Robot:35 - new facing:N
+19:14:30,670  INFO MoveRobotCommand:32 - coordinate:1,1 not available
+19:14:30,670  INFO Robot:28 - final status: 1 0 N
+19:14:30,671  INFO Robot:28 - final status: 1 0 N
+19:14:30,671  INFO Robot:21 - init coordinate:0,0
+19:14:30,671  INFO Robot:22 - init facing:N
+19:14:30,671  INFO Robot:42 - new facing:E
+19:14:30,671  INFO MoveRobotCommand:32 - coordinate:1,0 not available
+19:14:30,671  INFO Robot:35 - new facing:N
+19:14:30,671  INFO MoveRobotCommand:32 - coordinate:0,1 not available
+19:14:30,671  INFO Robot:42 - new facing:E
+19:14:30,672  INFO MoveRobotCommand:32 - coordinate:1,0 not available
+19:14:30,672  INFO Robot:42 - new facing:S
+19:14:30,674  INFO MoveRobotCommand:32 - coordinate:0,-1 not available
+19:14:30,674  INFO Robot:42 - new facing:W
+19:14:30,675  INFO MoveRobotCommand:32 - coordinate:-1,0 not available
+19:14:30,675  INFO Robot:28 - final status: 0 0 W
+19:14:30,677  INFO Robot:28 - final status: 0 0 W
