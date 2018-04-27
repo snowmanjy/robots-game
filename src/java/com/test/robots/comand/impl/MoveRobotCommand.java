@@ -6,13 +6,7 @@ import org.apache.log4j.Logger;
 public class MoveRobotCommand extends RobotCommand{
     final static Logger logger = Logger.getLogger(MoveRobotCommand.class);
 
-    protected IGrid grid;
-
     private RobotPositionCaculator robotPositionCaculator;
-
-    public void setGrid(IGrid grid) {
-        this.grid = grid;
-    }
 
     public void setRobotPositionCaculator(RobotPositionCaculator robotPositionCaculator) {
         this.robotPositionCaculator = robotPositionCaculator;
