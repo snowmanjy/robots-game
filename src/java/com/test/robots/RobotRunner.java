@@ -2,6 +2,7 @@ package com.test.robots;
 
 import com.test.robots.comand.CommandFactory;
 import com.test.robots.comand.CommandManager;
+import com.test.robots.comand.impl.RobotCommand;
 import com.test.robots.entities.grid.IGrid;
 import com.test.robots.entities.robot.IRobot;
 import com.test.robots.entities.robot.Robot;
@@ -30,7 +31,9 @@ public class RobotRunner {
 
             CommandManager commandManager = new CommandManager();
             for(char c : commands.toCharArray()) {
-                commandManager.addCommand(commandFactory.getCommand("" + c));
+                RobotCommand robotCommand = commandFactory.getCommand("" + c);
+                robotCommand.setRobot(robot);
+                commandManager.addCommand(robotCommand);
             }
 
             commandManager.executeCommands();
