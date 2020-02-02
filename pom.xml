@@ -13,7 +13,7 @@
     <properties>
         <java.version>1.8</java.version>
         <spring.version>4.3.8.RELEASE</spring.version>
-        <log4j.version>1.2.17</log4j.version>
+        <log4j.version>2.11.0</log4j.version>
     </properties>
 
     <dependencies>
@@ -40,10 +40,12 @@
             <artifactId>mockito-all</artifactId>
             <version>1.10.19</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j -->
         <dependency>
-            <groupId>log4j</groupId>
+            <groupId>org.apache.logging.log4j</groupId>
             <artifactId>log4j</artifactId>
             <version>${log4j.version}</version>
+            <type>pom</type>
         </dependency>
         <dependency>
             <groupId>com.google.guava</groupId>
