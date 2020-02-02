@@ -22,3 +22,6 @@
 hs_err_pid*
 .idea/*.*
 .idea/libraries/*.*
+
+.DS_Store
+*.iml
