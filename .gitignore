@@ -25,6 +25,7 @@
 
 .DS_Store
 *.iml
+*/target/**
 target/*/*.*
 target/*
 target/maven-archiver/
