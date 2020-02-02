@@ -9,4 +9,5 @@ In IDE:
     it can also be in a log file if config the folder location in log4j.properties
 
 This is a maven project, to run it, change directory to project root folder and run command:
+
 mvn package && java -jar target/robots.jar
