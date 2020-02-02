@@ -2,11 +2,11 @@ package com.test.robots.entities.robot;
 
 import com.test.robots.entities.directions.Direction;
 import com.test.robots.entities.directions.DirectionFactory;
-import org.apache.log4j.Logger;
-
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 public class Robot implements IRobot {
 
-    final static Logger logger = Logger.getLogger(Robot.class);
+    final static Logger logger = LogManager.getLogger(Robot.class);
 
     private int coordinateX;
 

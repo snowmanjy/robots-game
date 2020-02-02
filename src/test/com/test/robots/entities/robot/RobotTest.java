@@ -32,6 +32,6 @@ public class RobotTest {
     @Test
     public void testGetPrintString() {
         IRobot robot = new Robot(1, 1, "W");
-        assertEquals("final status: 1 1 W", robot.getPrintString());
+        assertEquals("1 1 W", robot.getPrintString());
     }
 }

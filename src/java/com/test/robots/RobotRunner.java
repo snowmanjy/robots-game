@@ -6,11 +6,12 @@ import com.test.robots.comand.impl.RobotCommand;
 import com.test.robots.entities.grid.IGrid;
 import com.test.robots.entities.robot.IRobot;
 import com.test.robots.entities.robot.Robot;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 public class RobotRunner {
 
-    final static Logger logger = Logger.getLogger(RobotRunner.class);
+    final static Logger logger = LogManager.getLogger(RobotRunner.class);
 
     public String run(String initRobot, String commands, IGrid grid) {
 
